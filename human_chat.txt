@@ -1,0 +1,36 @@
+How to track your package
+
+Go to Your Orders.
+Find the order you want to track.
+Select Track Package next to your order.
+View all updates to track delivery progress.
+If there are many items in your order, each may have separate delivery dates and tracking info.
+
+Find solutions to common delivery problems
+
+Your order hasn't shipped yet
+
+Check the estimated delivery date by selecting Track Package in Your Orders. If you're expecting the package today and don't see a status update, that's normal. Depending on the carrier, items may ship the same day they're delivered. If you’re not expecting the package today, please wait for the tracking information to be updated.
+
+Tracking information does not update
+
+The carrier may have more detailed information about your package. To track your package on the carrier website or contact them, go to Carrier Contact Information.
+
+If tracking information is not available, go to Missing Tracking Information.
+
+Your order is delayed
+
+If the expected delivery date has passed, keep in mind that weather, traffic, and more can cause delivery delays. Most late packages will arrive within 24 to 48 hours of the expected delivery date. If the order has already been shipped, you can't cancel it. Check our recommended actions for Late Deliveries.
+
+Tracking shows order was delivered but you haven’t received it
+
+Follow our recommended steps to Find a Package That Shows as Delivered.
+
+Tracking shows undeliverable status
+
+The carrier was not able to deliver your package, and they will return it to Amazon. We will automatically issue you a refund when we receive the package. For more information, go to Undeliverable Packages.
+
+Packages from third-party sellers
+
+You can track packages from third-party sellers if they share this info with Amazon and you chose a trackable shipping option. Contact the seller directly for assistance if you are having problems tracking your package. Go to Contact a Third-Party Seller for more information.
+
